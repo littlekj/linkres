@@ -1,1 +1,1 @@
-## Obsidian 笔记图片存储
+## 存储 Obsidian 笔记图片
